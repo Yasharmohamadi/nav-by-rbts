@@ -14,7 +14,5 @@ import Menu from './Menu'
 // SECOND WAY TO USE REACT
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <Container>
         <Menu></Menu>
-    </Container>
 );
